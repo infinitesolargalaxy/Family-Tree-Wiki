@@ -1,6 +1,9 @@
 # Family-Tree-Wiki #
 Intended to be helpful for writing a prequel, current story, and after story. Yes this is a wiki for tracking fictional character genealogies.
 
+## Note: ##
+I'm developing this as a personal project to test my skills and have something to put on my portfolio.
+
 ## Stack: ##
 Laravel/Php for the backend with a MySQL database.
 Vue/js for the front-end.
